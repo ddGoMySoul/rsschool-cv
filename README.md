@@ -1,1 +1,1 @@
-https://github.com/ddGoMySoul/rsschool-cv.git
+https://ddgomysoul.github.io/rsschool-cv/cv
